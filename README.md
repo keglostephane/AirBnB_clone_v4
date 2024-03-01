@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Keglo Dodzi - [Github](https://github.com/keglostephane)
+Keglo Dodzi - [Github](https://github.com/keglostephane) 
 Goita Cheick - [Github](https://github.com/Chesterkxng)
 
 Second part of Airbnb: Joann Vuong
